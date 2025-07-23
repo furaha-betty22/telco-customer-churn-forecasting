@@ -1,4 +1,5 @@
 # Telco Customer Churn Analysis
+![image](https://sdmntpreastus.oaiusercontent.com/files/00000000-fb78-61f9-bb59-76728e0481e2/raw?se=2025-07-23T12%3A12%3A04Z&sp=r&sv=2024-08-04&sr=b&scid=89cd1e0e-012a-57ba-96a0-ba34452cdd19&skoid=02b7f7b5-29f8-416a-aeb6-99464748559d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-22T23%3A43%3A05Z&ske=2025-07-23T23%3A43%3A05Z&sks=b&skv=2024-08-04&sig=QQTRynhUhLNrXHcS6GIzM7uAoX9fYEdvG46pQjksFOY%3D)
 
 This project explores and models customer churn data for a telecommunications company. The main objective is to understand the key drivers of customer churn and to build predictive models that can help identify customers who are likely to leave the service.This will help the organisation improve their services and be able to retain customers.
 
@@ -43,7 +44,7 @@ The following models were trained and evaluated:
 - Random Forest Classifier
 
 ## Key Findings
-This project successfully leveraged machine learning to predict customer churn for a telecom company. Through comprehensive data cleaning, exploration, and modeling, we identified key drivers influencing churn, such as frequent customer service calls, international plan usage, and high day-time call activity.
+ Through comprehensive data cleaning, exploration, and modeling, we identified key drivers influencing churn, such as frequent customer service calls, international plan usage, and high day-time call activity.
 
 By transforming raw telecom data into actionable insights, this solution empowers the organization to:
 
