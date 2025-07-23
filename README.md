@@ -37,6 +37,25 @@ The following models were trained and evaluated:
 
 - Logistic Regression
 - Random Forest Classifier
+From the classification I was able to obtain the following findings:-
+ **Interpretability:** Logistic Regression provides clear coefficients for each feature, making it easy to interpret how each variable (e.g., customer service calls, international plan) affects the likelihood of churn.
+- **Simplicity:** It is straightforward to implement and computationally efficient, making it suitable for quick baseline modeling.
+- **Probability Outputs:** The model gives probability scores, which can be useful for ranking customers by churn risk.
+
+#### **Outcome in This Project**
+- Random Forest, as seen in the classification report and confusion matrix, typically achieves higher accuracy and better captures complex patterns in customer behavior.
+
+**Complex, Non-Linear Relationships:**  
+  The churn dataset contains a mix of numerical features (call minutes, charges, number of service calls) and categorical features (international plan, voice mail plan, state). Random Forest is well-suited to capture complex, non-linear interactions between these variables, which are common in customer behavior data.
+
+- **Strong Predictive Performance:**  
+  The classification report and confusion matrix show that the Random Forest model achieves high accuracy and balanced precision/recall for both churners and non-churners. This means the model is effective at flagging customers at risk of leaving, while minimizing false alarms.
+
+
+**Note that** While feature importance is available, individual predictions are less transparent compared to logistic regression.
+
+
+Given the complexity and variety in the telecom churn data, Random Forest provides a strong balance of predictive power and business interpretability. Its ability to highlight the most influential churn factors makes it not only a high-performing model but also a valuable tool for guiding business decisions.
 
 ## Key Findings
  Through comprehensive data cleaning, exploration, and modeling, we identified key drivers influencing churn, such as frequent customer service calls, international plan usage, and high day-time call activity.
