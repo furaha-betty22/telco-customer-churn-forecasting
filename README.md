@@ -22,6 +22,7 @@ This figure shows the rate of customer churn as compared to the customer service
 ![image](https://github.com/furaha-betty22/telco-customer-churn-forecasting/blob/master/customer%20services%20calls%20vs%20churn.png)
 
 I also reviewed the Rate or churn among the international plan customers and the voice mail plan customers as seen below:-
+
 ![image](https://github.com/furaha-betty22/telco-customer-churn-forecasting/blob/master/international%20plan%20vs%20charn.png)
 
 ![image](https://github.com/furaha-betty22/telco-customer-churn-forecasting/blob/master/voice%20mail%20plan%20vs%20charn.png)
