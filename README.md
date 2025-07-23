@@ -19,6 +19,8 @@ The dataset used is available as a file in this repository and it contains the f
 - Data loading and cleaning
 - Exploratory data analysis (EDA)- Where I was able to assess the customer churn distribution as below
 ![image](https://github.com/furaha-betty22/telco-customer-churn-forecasting/blob/master/customer%20churn%20distribution.png)
+
+
 - Feature engineering
 - Machine learning model building and evaluation
 - Insights and recommendations
