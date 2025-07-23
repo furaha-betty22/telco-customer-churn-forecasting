@@ -18,11 +18,11 @@ The dataset used is available as a file in this repository and it contains the f
 ### Some of the methods used to analyse this data are:-
 - Data loading and cleaning
 - Exploratory data analysis (EDA)- Where I was able to assess the customer churn distribution as below
-![image](https://sdmntpreastus.oaiusercontent.com/files/00000000-fb78-61f9-bb59-76728e0481e2/raw?se=2025-07-23T12%3A12%3A04Z&sp=r&sv=2024-08-04&sr=b&scid=89cd1e0e-012a-57ba-96a0-ba34452cdd19&skoid=02b7f7b5-29f8-416a-aeb6-99464748559d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-22T23%3A43%3A05Z&ske=2025-07-23T23%3A43%3A05Z&sks=b&skv=2024-08-04&sig=QQTRynhUhLNrXHcS6GIzM7uAoX9fYEdvG46pQjksFOY%3D)
+![image](https://github.com/furaha-betty22/telco-customer-churn-forecasting/blob/master/customer%20churn%20distribution.png)
 - Feature engineering
 - Machine learning model building and evaluation
 - Insights and recommendations
-- 
+
 ## Files Included
 
 - `CHURN PROJECT.ipynb`: The main Jupyter Notebook with all code, visualizations, and analysis.
